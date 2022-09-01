@@ -1,0 +1,31 @@
+header {
+    background-color: beige;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    margin: 100px;
+    padding: 10px;
+    border: 10px green;
+    border-style: groove;
+    font-family: inherit;
+}
+
+#hero {
+float: right;
+}
+
+img {
+    width: 400px;
+}
+
+nav li {
+    display: inline-block;
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+}
