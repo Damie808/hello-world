@@ -1,6 +1,9 @@
 header {
-    background-color: beige;
     text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color:antiquewhite ;
+    
 }
 
 body {
@@ -10,11 +13,10 @@ body {
     border: 10px green;
     border-style: groove;
     font-family: inherit;
+    text-align: center;
 }
 
-#hero {
-float: right;
-}
+
 
 img {
     width: 400px;
@@ -23,9 +25,14 @@ img {
 nav li {
     display: inline-block;
     text-align: center;
+    font-size: 30px;
+    margin-right: 30px;
+
 
 }
 
 footer {
     text-align: center;
+    margin: 100px;
+    background-color: ;
 }
