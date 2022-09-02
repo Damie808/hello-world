@@ -19,11 +19,11 @@ function usersLocation(){
 
 usersLocation(); 
 
-function quizQuestion() {
-    let quizans = prompt('What time zone is Hawaii in?')
-    while (quizans != 'HST') {
-        quizans = prompt('wrong')
-    } if (quizans === 'PST') {
+function quiz() {
+    let ans = prompt('What time zone is Hawaii in?')
+    while (ans != 'HST') {
+        ans = prompt('wrong')
+    } if (ans === 'PST') {
         alert('Great Job!');
 
     }
