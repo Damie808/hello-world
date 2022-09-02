@@ -15,3 +15,4 @@ if (usersLocation == 'Hawaii'){
 }
 document.write(message)
 
+function 
